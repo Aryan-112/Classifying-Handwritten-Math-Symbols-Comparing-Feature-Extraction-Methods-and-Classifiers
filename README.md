@@ -75,7 +75,7 @@ All six feature/model combinations are summarised in a single comparison table a
 
 ```
 ├── Notebook.ipynb              # Full pipeline notebook
-├── student_24956928/           # Dataset folder (per-class image subfolders)
+├── Dataset/           # Dataset folder (per-class image subfolders)
 │   ├── =/
 │   ├── 4/
 │   ├── cos/
